@@ -85,6 +85,8 @@ default:
 }
 
 
+print("dsdhjasgdjhasgdjhkasdgias")
+
 //print("Введите год рождения:")
 //var year = Int(readLine()!)
 //
